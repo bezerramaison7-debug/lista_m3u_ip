@@ -1847,3 +1847,963 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/125448.ts
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/9224.ts
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="http://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnsdwCK4BGAYYCw/s400/zoomoo.png" group-title="CANAIS: INFANTIS ✨",ZOOMOO HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/9230.ts
+#EXTVLCOPT:http-referrer=https://meufut.top/getv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes", GE TV [Fonte 2]
+https://proxylinkurl.wored85282.workers.dev/https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes", GE TV [Fonte 3]
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes", GE TV [Fonte 4]
+http://45.185.11.126:8000/play/a08v/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes", GE TV [Fonte 5]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/getv/index.m3u8
+#EXTINF:-1 tvg-id="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes", GE TV [Fonte 6]
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://img.faz-o-eli.online/globonews.png" group-title="Notícias", GloboNews [Fonte 1]
+http://45.185.11.126:8000/play/a08d/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://img.faz-o-eli.online/globonews.png" group-title="Notícias", GloboNews [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://img.faz-o-eli.online/globonovelas.prev.png" group-title="Filmes e Séries", Globoplay Novelas
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoplaynovelas/index.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Variedades", GNT [Fonte 1]
+http://45.185.11.126:8000/play/a079/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Variedades", GNT [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gnt/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários", History [Fonte 1]
+http://138.204.86.4:8080/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários", History [Fonte 2]
+http://45.185.11.126:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários", History [Fonte 3]
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários", History [Fonte 4]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentários", History 2
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history2/index.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias", Jovem Pan News [Fonte 1]
+https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias", Jovem Pan News [Fonte 2]
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias", Jovem Pan News [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/jovempannews/index.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://www.tvlogo.org/brazil/jovem-pan-news-br.png" group-title="Notícias", Jovem Pan News [Fonte 4]
+http://186.219.52.187/jp_news/index.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries", Megapix [Fonte 1]
+http://45.185.11.126:8000/play/a057/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries", Megapix [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://img.faz-o-eli.online/multishow.png" group-title="Variedades", Multishow
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/multishow/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 2
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere2/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 3
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere3/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 4
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere4/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 5
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere5/index.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes", Premiere 6 [Fonte 1]
+http://45.185.11.126:8000/play/a05j/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes", Premiere 6 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere6/index.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 7 [Fonte 1]
+http://45.185.11.126:8000/play/a05k/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere 7 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere7/index.m3u8
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes", Premiere 8 [Fonte 1]
+http://45.185.11.126:8000/play/a05l/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="Esportes", Premiere 8 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere8/index.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere Clubes [Fonte 1]
+http://45.185.11.126:8000/play/a06g/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes", Premiere Clubes [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="TV Aberta", SBT [Fonte 1]
+http://138.204.86.4:8080/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="TV Aberta", SBT [Fonte 2]
+https://aovivo.maissbt.com/indexMobile.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="TV Aberta", SBT [Fonte 3]
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Notícias", SBT News [Fonte 1]
+https://sbtnews.maissbt.com/index.m3u8
+#EXTINF:-1 tvg-id="SBT News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Notícias", SBT News [Fonte 2]
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="SBT News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt-news.png" group-title="Notícias", SBT News [Fonte 3]
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries", Sony Channel [Fonte 1]
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries", Sony Channel [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes", SporTV
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes", SporTV 2 [Fonte 1]
+http://45.185.11.126:8000/play/a05f/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes", SporTV 2 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes", SporTV 3 [Fonte 1]
+http://45.185.11.126:8000/play/a06v/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes", SporTV 3 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="Canal OFF" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes", Canal OFF [Fonte 1]
+http://45.185.11.126:8000/play/a07t/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Canal OFF" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes", Canal OFF [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canaloff/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries", Telecine Action [Fonte 1]
+http://45.185.11.126:8000/play/a058/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries", Telecine Action [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries", Telecine Pipoca [Fonte 1]
+http://45.185.11.126:8000/play/a08g/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries", Telecine Pipoca [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries", Telecine Premium
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/tv-brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="TV Aberta", TV Brasil [Fonte 1]
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="TV Aberta", TV Brasil [Fonte 2]
+http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal-reality.png" group-title="Filmes e Séries", Universal Reality
+http://45.185.11.126:8000/play/a08c/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries", Warner
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8
+#EXTINF:-1 tvg-id="IMPD" tvg-logo="https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png" group-title="Variedades", IMPD
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo SP
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globosp/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil", Cartoonito [Fonte 1]
+http://45.185.11.126:8000/play/a0ae/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil", Cartoonito [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonito/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries", Cinemax [Fonte 1]
+http://138.204.86.4:8080/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries", Cinemax [Fonte 2]
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries", Cinemax [Fonte 3]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários", Discovery Channel [Fonte 1]
+http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários", Discovery Channel [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil", Discovery Kids [Fonte 1]
+http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil", Discovery Kids [Fonte 2]
+http://45.185.11.126:8000/play/a0ad/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil", Discovery Kids [Fonte 3]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverykids/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentários", Discovery Theater [Fonte 1]
+http://138.204.86.4:8080/DISCOVERY_THEATER_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentários", Discovery Theater [Fonte 2]
+http://45.185.11.126:8000/play/a085/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentários", Discovery Theater [Fonte 3]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverytheater/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes", ESPN [Fonte 1]
+http://138.204.86.4:8080/ESPN_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes", ESPN [Fonte 2]
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes", ESPN [Fonte 3]
+http://45.162.64.114/ESPN_BRASIL/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes", ESPN [Fonte 4]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes", ESPN 2 [Fonte 1]
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes", ESPN 2 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes", ESPN 4 [Fonte 1]
+http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes", ESPN 4 [Fonte 2]
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes", ESPN 4 [Fonte 3]
+http://45.185.11.126:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes", ESPN 4 [Fonte 4]
+http://45.162.64.114/ESPN_4/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes", ESPN 4 [Fonte 5]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes", ESPN 5 [Fonte 1]
+http://45.185.11.126:8000/play/a05n/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes", ESPN 5 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes", ESPN 6 [Fonte 1]
+http://45.185.11.126:8000/play/a084/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes", ESPN 6 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries", HBO [Fonte 1]
+http://138.204.86.4:8080/HBO/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries", HBO [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries", HBO2 [Fonte 1]
+http://138.204.86.4:8080/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries", HBO2 [Fonte 2]
+http://45.185.11.126:8000/play/a08o/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries", HBO2 [Fonte 3]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries", HBO Family [Fonte 1]
+http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries", HBO Family [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries", HBO Mundi [Fonte 1]
+http://138.204.86.4:8080/HBO_MUNDI_HD/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries", HBO Mundi [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries", HBO Plus [Fonte 1]
+http://138.204.86.4:8080/HBO_PLUS/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries", HBO Plus [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries", HBO Pop [Fonte 1]
+http://138.204.86.4:8080/HBO_POP_HD/index.m3u8
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries", HBO Pop [Fonte 2]
+http://45.185.11.126:8000/play/a08s/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries", HBO Pop [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png" group-title="Filmes e Séries", HBO Signature [Fonte 1]
+http://138.204.86.4:8080/HBO_SIGNATURE/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png" group-title="Filmes e Séries", HBO Signature [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Filmes e Séries", HBO Xtreme [Fonte 1]
+http://45.185.11.126:8000/play/a083/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Filmes e Séries", HBO Xtreme [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="TV Aberta", Record
+http://138.204.86.4:8080/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries", Space [Fonte 1]
+http://138.204.86.4:8080/SPACE_HD/index.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries", Space [Fonte 2]
+http://45.162.64.114/SPACE/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries", Space [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/space/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries", TNT [Fonte 1]
+http://138.204.86.4:8080/TNT_HD/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries", TNT [Fonte 2]
+http://45.162.64.114/TNT/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries", TNT [Fonte 3]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tnt/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes e Séries", TNT Séries
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntseries/index.m3u8
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries", Universal TV [Fonte 1]
+http://45.185.11.126:8000/play/a0af/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries", Universal TV [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários", Discovery Turbo [Fonte 1]
+http://138.204.86.4:8080/DISCOVERY_TURBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários", Discovery Turbo [Fonte 2]
+http://45.185.11.126:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários", Discovery Turbo [Fonte 3]
+http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários", Discovery Turbo [Fonte 4]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryturbo/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png" group-title="Filmes e Séries", USA Network
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries", Telecine Fun [Fonte 1]
+http://45.185.11.126:8000/play/a059/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries", Telecine Fun [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries", Telecine Cult [Fonte 1]
+http://45.185.11.126:8000/play/a05a/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries", Telecine Cult [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries", Telecine Touch
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://www.tvlogo.org/brazil/sony-movies-br.png" group-title="Filmes e Séries", SONY Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="TV Aberta", Globo
+http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil", Tooncast [Fonte 1]
+http://170.83.16.50:80/TOONCAST/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil", Tooncast [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tooncast/index.m3u8
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1.png" group-title="Variedades", Arte 1
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://img.faz-o-eli.online/tntnovelas.png" group-title="Filmes e Séries", TNT Novelas
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntnovelas/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentários", Discovery Science [Fonte 1]
+http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentários", Discovery Science [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries", AXN [Fonte 1]
+http://138.204.86.4:8080/AXN_HD/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries", AXN [Fonte 2]
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries", AXN [Fonte 3]
+http://170.83.16.50/AXN/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries", AXN [Fonte 4]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/axn/index.m3u8
+#EXTINF:-1 tvg-id="Band News" tvg-logo="https://img.faz-o-eli.online/bandnews.png" group-title="Notícias", Band News [Fonte 1]
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Band News" tvg-logo="https://img.faz-o-eli.online/bandnews.png" group-title="Notícias", Band News [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandnews/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes", BAND SPORTS HD [Fonte 1]
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes", BAND SPORTS HD [Fonte 2]
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes", BAND SPORTS HD [Fonte 3]
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes", BAND SPORTS HD [Fonte 4]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsports/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta", RedeTV! [Fonte 1]
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta", RedeTV! [Fonte 2]
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta", RedeTV! [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redetv/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://www.tvlogo.org/brazil/rede-tv-br.png" group-title="TV Aberta", RedeTV! [Fonte 4]
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta", TV Cultura [Fonte 1]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvcultura/index.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta", TV Cultura [Fonte 2]
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta", TV Cultura [Fonte 3]
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="TV Aberta", TV Cultura [Fonte 4]
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://www.tvlogo.org/brazil/terraviva-br.png" group-title="Variedades", Terra Viva [Fonte 1]
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://www.tvlogo.org/brazil/terraviva-br.png" group-title="Variedades", Terra Viva [Fonte 2]
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png" group-title="Esportes", Woohoo [Fonte 1]
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png" group-title="Esportes", Woohoo [Fonte 2]
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes", ESPN 3 [Fonte 1]
+http://138.204.86.4:8080/ESPN3_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes", ESPN 3 [Fonte 2]
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes", ESPN 3 [Fonte 3]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png" group-title="TV Aberta", TV Gazeta [Fonte 1]
+http://45.162.64.114/GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png" group-title="TV Aberta", TV Gazeta [Fonte 2]
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png" group-title="TV Aberta", TV Gazeta [Fonte 3]
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 1]
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/record-news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 2]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordnews/index.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 4]
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 5]
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 6]
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/recordnews.png" group-title="Notícias", Record News [Fonte 7]
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta", Canção Nova [Fonte 1]
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta", Canção Nova [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cancaonova/index.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="TV Aberta", Canção Nova [Fonte 3]
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png" group-title="TV Aberta", TV Aparecida [Fonte 1]
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png" group-title="TV Aberta", TV Aparecida [Fonte 2]
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png" group-title="TV Aberta", TV Aparecida [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvaparecida/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta", Rede Vida [Fonte 1]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redevida/index.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta", Rede Vida [Fonte 2]
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta", Rede Vida [Fonte 3]
+http://186.219.52.187/rede_vida/index.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="TV Aberta", Rede Vida [Fonte 4]
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Documentários", Discovery ID [Fonte 1]
+http://138.204.86.4:8080/ID_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Documentários", Discovery ID [Fonte 2]
+http://45.162.64.114/DISCOVERY_ID/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Documentários", Discovery ID [Fonte 3]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryid/index.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="Esportes", Fish TV [Fonte 1]
+http://45.162.64.114/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="Esportes", Fish TV [Fonte 2]
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes", X Sports
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/xsports/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="N SPORTS" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="Esportes", N SPORTS
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/nsports/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Band SP" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta", Band SP
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SBT SP" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta", SBT SP
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sbtsp/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record SP" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta", Record SP
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordsp/index.m3u8
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Variedades", Canal Rural [Fonte 1]
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Variedades", Canal Rural [Fonte 2]
+http://186.219.52.187/canal_rural/index.m3u8
+#EXTINF:-1 tvg-id="Agro Mais" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Variedades", Agro Mais
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="CNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-cnt-br.png" group-title="TV Aberta", CNT
+http://45.162.64.114/CNT/index.m3u8
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades", TV Pai Eterno [Fonte 1]
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades", TV Pai Eterno [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paieterno/index.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/tv-pai-eterno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades", TV Pai Eterno [Fonte 3]
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades", TV Pai Eterno [Fonte 4]
+https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+#EXTINF:-1 tvg-id="PlayTV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="TV Aberta", PlayTV [Fonte 1]
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="TV Aberta", PlayTV [Fonte 2]
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="TV Aberta", Rede Brasil [Fonte 1]
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="TV Aberta", Rede Brasil [Fonte 2]
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Variedades", Rede Gospel [Fonte 1]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redegospel/index.m3u8
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Variedades", Rede Gospel [Fonte 2]
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png" group-title="Variedades", Trace Brazuca [Fonte 1]
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png" group-title="Variedades", Trace Brazuca [Fonte 2]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Câmara" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png" group-title="TV Aberta", TV Câmara [Fonte 1]
+http://45.162.64.114/TV_CAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TV Câmara" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png" group-title="TV Aberta", TV Câmara [Fonte 2]
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Variedades", TV Evangelizar [Fonte 1]
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Variedades", TV Evangelizar [Fonte 2]
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Variedades", TV Evangelizar [Fonte 3]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TV Justiça" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-justica.png" group-title="TV Aberta", TV Justiça [Fonte 1]
+http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TV Justiça" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-justica.png" group-title="TV Aberta", TV Justiça [Fonte 2]
+http://170.83.16.50/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Variedades", TV Novo Tempo [Fonte 1]
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Variedades", TV Novo Tempo [Fonte 2]
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/novotempo/index.m3u8
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Variedades", TV Novo Tempo [Fonte 3]
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Senado" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png" group-title="TV Aberta", TV Senado [Fonte 1]
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TV Senado" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png" group-title="TV Aberta", TV Senado [Fonte 2]
+http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="RIT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Variedades", RIT [Fonte 1]
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="RIT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Variedades", RIT [Fonte 2]
+https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Documentários", Discovery Home & Health [Fonte 1]
+http://45.162.64.114/DISCOVERY_H_H/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Documentários", Discovery Home & Health [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryhh/index.m3u8
+#EXTINF:-1 tvg-id="Canal Agro" tvg-logo="https://mondrian.claro.com.br/channels/inverse/agromais.png" group-title="Variedades", Canal Agro [Fonte 1]
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="Canal Agro" tvg-logo="https://mondrian.claro.com.br/channels/inverse/agromais.png" group-title="Variedades", Canal Agro [Fonte 2]
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="Blits TV" tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="Variedades", Blits TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/com-brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Com Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades", Com Brasil [Fonte 1]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="Com Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades", Com Brasil [Fonte 2]
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="SESC TV" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="TV Aberta", SESC TV
+http://45.162.64.114/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias", TVideoNews [Fonte 1]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias", TVideoNews [Fonte 2]
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8
+#EXTINF:-1 tvg-id="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="TV Aberta", Canal Educacao [Fonte 1]
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="TV Aberta", Canal Educacao [Fonte 2]
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV Aberta", Canal Futura [Fonte 1]
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV Aberta", Canal Futura [Fonte 2]
+http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="TV Aberta", Canal Futura [Fonte 3]
+http://186.219.52.187/futura/index.m3u8
+#EXTINF:-1 tvg-id="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="TV Aberta", Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="Canal UOL" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="Notícias", Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Variedades", Canal do Boi [Fonte 1]
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Variedades", Canal do Boi [Fonte 2]
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="Cultura Fast" tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png" group-title="TV Aberta", Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil", DumDum [Fonte 1]
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil", DumDum [Fonte 2]
+http://45.185.11.126:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil", DumDum [Fonte 3]
+http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_1785430539950.png" group-title="24 Horas", MasterChef
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes e Séries", MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickOnline" tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil", NickOnline [Fonte 1]
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NickOnline" tvg-logo="https://x1colegal.com/logo.png" group-title="Infantil", NickOnline [Fonte 2]
+https://x1colegal.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="NickToons Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil", NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png" group-title="Infantil", Nickelodeon
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV Aberta", Rede TV! [Fonte 1]
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV Aberta", Rede TV! [Fonte 2]
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/rede-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV Aberta", Rede TV! [Fonte 3]
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede TV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV Aberta", Rede TV! [Fonte 4]
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
+#EXTINF:-1 tvg-id="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes e Séries", Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Amazon Prime Video 01" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes", Amazon Prime Video 01
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amazonprimevideo/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Amazon Prime Video 02" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes", Amazon Prime Video 02
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amazonprimevideo02/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Canal GOAT (Jogo 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="Esportes", Canal GOAT (Jogo 1)
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canalgoat/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes", Combate
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="DAZN (Jogo 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="Esportes", DAZN (Jogo 1)
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/dazn/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes", Disney+ 01
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes", Disney+ 02
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus02/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 1)" tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes", Paramount+ (Jogo 1)
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 2)" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes", Paramount+ (Jogo 2)
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus02/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 3)" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes", Paramount+ (Jogo 3)
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus03/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="MAX 02" tvg-logo="http://www.fontedecanais.gs/logos/canais/max.png" group-title="Filmes e Séries", MAX 02
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max02/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Séries", Studio Universal
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantil", Gloob
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://logos.imperioapps.top/GLOBINHO.png" group-title="Infantil", Gloobinho
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloobinho/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Rá Tim Bum" tvg-logo="https://logos.imperioapps.top/TV_RA_TIM_BUM.png" group-title="Infantil", TV Rá Tim Bum
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvratimbum/index.m3u8
+#EXTINF:-1 tvg-id="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="TV Aberta", TVE Bahia
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Variedades", BIS
+http://45.185.11.126:8000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Variedades", Food Network [Fonte 1]
+http://45.185.11.126:8000/play/a06j/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Variedades", Food Network [Fonte 2]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-id="24H Naruto Clássico" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas", 24H Naruto Clássico
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários", Discovery World [Fonte 1]
+http://138.204.86.4:8080/DISCOVERY_WORLD_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários", Discovery World [Fonte 2]
+http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários", Discovery World [Fonte 3]
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryworld/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV 1" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 1 [Fonte 1]
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="CazeTV 1" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 1 [Fonte 2]
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="CazeTV 2" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 2
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv2/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SportyNet+ 1" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes", SportyNet+ 1
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SportyNet+ 2" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes", SportyNet+ 2
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet2/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SportyNet+ 3" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes", SportyNet+ 3
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet3/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globo ES" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo ES
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoes/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="TV Aberta", Globo RJ
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globorj/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globo RS" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo RS
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globors/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record MG" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta", Record MG
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordmg/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record RJ" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta", Record RJ
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordrj/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="CazeTV 3" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes", CazeTV 3
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv3/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globo DF" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo DF
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globodf/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Globo MG" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta", Globo MG
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globomg/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="MAX 03" tvg-logo="https://img.faz-o-eli.online/max.png" group-title="Filmes e Séries", MAX 03
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max03/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="SportyNet" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes", SportyNet
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Paramount + 4" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Variedades", Paramount + 4
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus04/index.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/anime-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Anime Channel TV" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil", Anime Channel TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Otaku Sign TV" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil", Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Infantil", Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="NBX TV Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil", NBX TV Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-id="SBC Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil", SBC Kids
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Crianças" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil", Rede Crianças
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kuriakos Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantil", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="Jetsons TV" tvg-logo="https://i.imgur.com/PZcTfqV.png" group-title="Infantil", Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/the-smurfs-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="24H Os Smurfs" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24 Horas", 24H Os Smurfs
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/tv-a-critica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV A Crítica" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="TV Aberta", TV A Crítica
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://meufut.top/fifa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="FIFA+ Português" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fifa-plus.png" group-title="Esportes", FIFA+ Português [Fonte 1]
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Português" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fifa-plus.png" group-title="Esportes", FIFA+ Português [Fonte 2]
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-logo="https://img.faz-o-eli.online/globo.png" group-title="TV Aberta", Globo Bahia
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="Runtime Ação" tvg-logo="https://i.imgur.com/3rM8nL2.png" group-title="Filmes e Séries", Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="Top TV" tvg-logo="https://i.imgur.com/aKbHjFO.png" group-title="Músicas", Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-id="MovieSphere Brazil" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries", MovieSphere Brazil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Músicas", Trace Urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Sony One Classics" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony-movies.png" group-title="Filmes e Séries", Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Classique Faroeste" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries", Classique Faroeste
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading TV" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Infantil", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Retrô Cartoon" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Infantil", Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Músicas", Retro Music
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Now Rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Músicas", Now Rock
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Clássicos" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries", TV Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Apple TV 01" tvg-logo="https://1.embedcanaisdetv.com/images/appletv1.png" group-title="Esportes", Apple TV 01
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/appletv01/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Apple TV 02" tvg-logo="https://1.embedcanaisdetv.com/images/appletv1.png" group-title="Esportes", Apple TV 02
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/appletv02/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Apple TV 03" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes", Apple TV 03
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/appletv03/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Apple TV 04" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes", Apple TV 04
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/appletv04/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Apple TV 05" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes", Apple TV 05
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/appletv05/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Apple TV 06" tvg-logo="https://vipcanais.net/images/appletv1.png" group-title="Esportes", Apple TV 06
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/appletv06/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="CazeTV 4" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes", CazeTV 4
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv4/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 07" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes", Disney+ 07
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus07/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 08" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes", Disney+ 08
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus08/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 03" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes", Disney+ 03
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus03/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 05" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes", Disney+ 05
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus05/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 06" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes", Disney+ 06
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus06/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="MAX 04" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes", MAX 04
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max04/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="MAX 05" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes", MAX 05
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max05/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="AMC Séries" tvg-logo="https://vipcanais.net/images/amcseries.png" group-title="Filmes e Séries", AMC Séries
+https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amcseries/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record DF" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta", Record DF
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Record ES" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta", Record ES
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordes/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Disney+ 04" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes", Disney+ 04
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus04/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Max" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes", Max
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max/index.m3u8
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+#EXTINF:-1 tvg-id="Max 06" tvg-logo="https://1.embedcanaisdetv.com/images/max.png" group-title="Esportes", Max 06
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max06/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://img.faz-o-eli.online/mtv.png" group-title="Variedades", MTV
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
